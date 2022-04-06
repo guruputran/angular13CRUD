@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apples",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 210,
+      "comment": "Best in town",
+      "date": "2022-04-02T16:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Oranges",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 52,
+      "comment": "New Jersey",
+      "date": "2022-04-02T16:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

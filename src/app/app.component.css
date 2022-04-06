@@ -1,0 +1,22 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+mat-form-field {
+  margin-right: 12px;
+}
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td, th {
+  width: 25%;
+}
+.container{
+  margin: 0 auto;
+  max-width: 1200px;
+}
